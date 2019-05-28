@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Subleasier</string>
+    <string name="title_home">Home</string>
+    <string name="title_chatroom">Chatroom</string>
+    <string name="title_search">Search</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_post">Post</string>
+    <string name="create_a_post">create_a_post</string>
+
+    <string-array name="my_chat">
+        <item>Mary</item>
+        <item>Lily</item>
+        <item>Tom</item>
+        <item>Joey</item>
+    </string-array>
+
+
+    <!--Yuyu's-->
+    <string name="posted_info">Posted: </string>
+    <string name="_4b4b_wahu_800">4B4B Wahu $800</string>
+    <string name="img_wahu">image of Wahu</string>
+    <string name="saved">Saved:</string>
+    <string name="title">Create A Post</string>
+    <string name="location">Where is your apartment?</string>
+    <string name="location_of_apt">Enter Your Location</string>
+    <string name="apt_info">Your Apartment Information:</string>
+    <string name="beds">How many bedrooms?</string>
+    <string name="baths">How many bathrooms?</string>
+    <string name="price">Price</string>
+    <string name="furnished">Furnished</string>
+    <string name="unfurnished">Unfurnished</string>
+    <string name="negotiate">How much are you willing to negotiate?</string>
+    <string name="post_button">Post</string>
+    <string name="comments">Comments for Readers:</string>
+    <string name="num_of_price">$</string>
+    <string name="motivation">Motivation</string>
+    <string name="team_member">Team Members</string>
+    <string name="team_member_1">Yuyu Huang</string>
+    <string name="team_member_2">Rose Ting</string>
+    <string name="team_member_3">Wenqi Luo</string>
+    <string name="team_member_4">Michael Birk</string>
+    <string name="contact">Contact Us</string>
+    <string name="details">Address: Keller Hall, U of M\n
+                            Phone: (1)XXX-XXX-XXXX\n
+                            Email: CSci5115_Subleasier@umn.edu</string>
+
+    <string name="mov_details">Sometimes we have to take off before our lease contract ends,
+        no matter it is for returning home, not having a good time living that place or any other reasons.
+        As UMN students, we all have busy school lives, none of us would like to pay most of our attention
+        on housing issues while having tons of assignment dues during the school year. To gather the most
+        housing information for students, we design an App that is designed for UMN students on finding or
+        subletting apartments.
+    </string>
+
+
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="unfill">unfill</string>
+    <string name="hfill">filled</string>
+    <string name="welcome_tt">Welcome!</string>
+    <string name="google_map">Google Map</string>
+    <string name="wahu">TODO</string>
+    <string name="location_wahu">Location: Wahu</string>
+    <string name="message_me">Message Me</string>
+    <string name="pets_welcome">Pets Welcome</string>
+    <string name="my_info">My Info</string>
+    <string name="room_tour">Room Tour</string>
+    <string name="questions_want_a_room_tour">Questions? Want a room tour?</string>
+    <string name="price_800_m">Price: $800/m</string>
+    <string name="welcome_to_the_wahu_apartment_which_is_located_close_to_the_university_of_minnesota_campus_due_to_personal_reasons_this_apartment_is_out_for_rent_during_arpil_and_december_there_is_a_variety_of_restaurants_and_stores_nearby_convenient_for_students_and_workers">Welcome to the Wahu apartment which is located close to the University of Minnesota campus. Due to personal reasons, this apartment is out for rent during Arpil and December. There is a variety of restaurants and stores nearby, convenient for students and workers.</string>
+    <string name="free_wifi_coverage">Free Wifi Coverage</string>
+    <string name="furnished_">Furnished?</string>
+    <string name="room_type_4b4b">Room Type: 4B4B</string>
+
+
+    <string name="todo">TODO</string>
+
+
+</resources>
